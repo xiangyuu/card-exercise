@@ -1,0 +1,21 @@
+.container {
+  .card{
+    .movie {
+      position: relative;
+      .iframe {
+        width: 100%;
+      }
+      .controller{
+        position: absolute;
+        bottom: 20px;
+        left:20px;
+
+      }
+      .title {
+        font-weight: 700;
+        font-size: 16px;
+      }
+    }
+  }
+
+}
